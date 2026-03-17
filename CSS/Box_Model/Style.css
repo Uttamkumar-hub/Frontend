@@ -1,0 +1,43 @@
+.container{
+    border: 2px black;
+    color: black;
+    height: 700px; 
+    margin: 80px;
+    padding: 20px;
+    background-color: seashell;
+
+}
+.container1{
+    display: inline-block;
+    width: 250px;
+    height: 600px;
+    padding: 20PX;
+    
+    
+    /* border: 5px solid navy; */
+}
+
+.container2{
+    display: inline-block;
+    width: 250px;
+    height: 600px;
+    padding:20PX;
+    
+    /* border: 5px solid navy */
+}
+.container3{
+    display: inline-block;
+    width: 250px;
+    height: 600px;
+    padding:20PX;
+    
+    
+}
+.container4{
+    display: inline-block;
+    width: 250px;
+    height: 600px;
+    padding: 20PX;
+    
+    /* border: 5px solid navy */
+}
